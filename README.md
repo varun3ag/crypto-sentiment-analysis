@@ -275,11 +275,12 @@ GPT-4   → Larger language model capabilities
 
 ## 👥 Team
 
-| Name | Role | Email |
-|------|------|-------|
-| **Manish Pawar** | Lead Data Scientist | m.pawar1@universityofgalway.ie |
-| **Dhanaraj Kundapura Shankar** | NLP & Analysis | D.KS1@universityofgalway.ie |
-| **Varun Ajjampur Govindaraju** | ML Engineering | v.govindaraju1@universityofgalway.ie |
+| Name |
+|------|
+| **Varun Ajjampur Govindaraju** 
+| **Manish Pawar** 
+| **Dhanaraj Kundapura Shankar** 
+
 
 ---
 
