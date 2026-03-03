@@ -353,7 +353,7 @@ crypto-sentiment-analysis/
 ## 📝 Citation
 
 ```bibtex
-@mastersthesis{pawar2025crypto,
+@mastersthesis{2025crypto,
   title={Sentiment Analysis for Crypto Market Trends Using Machine Learning},
   author={Pawar, Manish and Kundapura Shankar, Dhanaraj and Govindaraju, Varun A.},
   school={University of Galway, J.E. Cairnes School of Business and Economics},
